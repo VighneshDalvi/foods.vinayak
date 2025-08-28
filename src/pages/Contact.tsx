@@ -49,7 +49,7 @@ const Contact = () => {
               </CardHeader>
               <CardContent className="space-y-4">
                 <div>
-                  <p className="font-semibold text-lg text-primary">8879791126</p>
+                  <p className="font-semibold text-lg text-primary">9326630254</p>
                   <p className="font-semibold text-lg text-primary">9324486528</p>
                 </div>
                 <p className="text-muted-foreground text-sm">
@@ -58,9 +58,9 @@ const Contact = () => {
                 <div className="space-y-2">
                   <Button 
                     className="w-full bg-gradient-warm border-0"
-                    onClick={() => window.open('tel:8879791126')}
+                    onClick={() => window.open('tel:9326630254')}
                   >
-                    Call 8879791126
+                    Call 9326630254
                   </Button>
                   <Button 
                     variant="outline" 
@@ -92,9 +92,9 @@ const Contact = () => {
                 <div className="space-y-2">
                   <Button 
                     className="w-full bg-green-600 hover:bg-green-700 text-white border-0"
-                    onClick={() => openWhatsApp('8879791126')}
+                    onClick={() => openWhatsApp('9326630254')}
                   >
-                    WhatsApp 8879791126
+                    WhatsApp 9326630254
                   </Button>
                   <Button 
                     variant="outline" 
@@ -213,7 +213,7 @@ const Contact = () => {
               size="lg" 
               variant="secondary" 
               className="bg-white text-primary hover:bg-yellow-50"
-              onClick={() => openWhatsApp('8879791126')}
+              onClick={() => openWhatsApp('9326630254')}
             >
               <MessageCircle className="mr-2 w-5 h-5" />
               Order via WhatsApp
@@ -222,7 +222,7 @@ const Contact = () => {
               size="lg" 
               variant="outline" 
               className="border-white text-white hover:bg-white hover:text-primary"
-              onClick={() => window.open('tel:8879791126')}
+              onClick={() => window.open('tel:9326630254')}
             >
               <Phone className="mr-2 w-5 h-5" />
               Call Now
