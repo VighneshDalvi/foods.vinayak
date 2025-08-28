@@ -73,7 +73,7 @@ const Footer = () => {
               <li className="flex items-center space-x-3 text-sm">
                 <Phone className="w-4 h-4 text-primary" />
                 <div>
-                  <p className="text-muted-foreground">8879791126</p>
+                  <p className="text-muted-foreground">9326630254</p>
                   <p className="text-muted-foreground">9324486528</p>
                 </div>
               </li>
